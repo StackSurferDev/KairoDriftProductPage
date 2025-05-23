@@ -69,7 +69,7 @@ A live-demo proof of concept showcasing AI-driven ocean drift prediction for sea
 
 - Inverse drift tracing to back-project likely origin  
 - Incorporate wind & wave data for more robust forecasts  
-- Mobile-first design & offline support  
+- Mobile-first design
 
 ---
 
