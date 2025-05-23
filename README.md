@@ -1,4 +1,7 @@
+![image](https://github.com/user-attachments/assets/37c53db2-9117-40a0-9858-05e912b41dfe)
+
 # 🌊 KairoDrift – Proof of Concept
+
 
 A live-demo proof of concept showcasing AI-driven ocean drift prediction for search & rescue (SAR) missions. No code is exposed here––just an interactive overview to explore the core ideas, data sources and visualizations.
 
